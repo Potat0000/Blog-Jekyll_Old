@@ -1,29 +1,28 @@
 # Site settings
 title: Gyj1109's blog
 email: gyj1109@126.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://gyj1109.github.io" # the base hostname & protocol for your site
-
+description: "My blog"
+baseurl: ""
+url: "http://gyj1109.github.io"
+permalink: /:year:month/:title
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+timezone: Asia/Shanghai
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
-filter: 'category'
+filter: 'tag'
 
 
 # Social account
 twitter:    gyj1109
-weibo:      gyj1109
+# weibo:    gyj1109
 github:     gyj1109
 # codepen:  username
 # dribbble: username
 
 
 # Comment
-disqus_shortname: gyj1109
+# disqus_shortname: gyj1109
 
 
 # Google Analytics
