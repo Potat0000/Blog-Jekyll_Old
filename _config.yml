@@ -7,6 +7,7 @@ url: "http://gyj1109.github.io"
 permalink: /:year:month/:title
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: Asia/Shanghai
+future: true
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
