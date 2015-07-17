@@ -1,32 +1,26 @@
 # Site settings
-title: Gyj1109's blog
-email: gyj1109@126.com
-description: "My blog"
+title: Peiwen Lu
+email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
+description: "Peiwen Lu's front-end blog."
 baseurl: ""
-url: "http://gyj1109.github.io"
-permalink: /:year:month/:title
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-timezone: Asia/Shanghai
-
-# Sidebar filter
-# Choose 'tag' or 'category' as filter in sidebar.
-filter: 'tag'
+url: "http://peiwen.lu"
+permalink: /:year/:title
 
 
 # Social account
-twitter:    gyj1109
-# weibo:    gyj1109
-github:     gyj1109
-# codepen:  username
+twitter:  PeiwenLu
+# weibo:    ID
+github:   P233
+codepen:  P233
 # dribbble: username
 
 
 # Comment
-# disqus_shortname: gyj1109
+# disqus_shortname:
 
 
 # Google Analytics
-# google_analytics: tracking_ID
+google_analytics: UA-60830414-1
 
 
 # Build settings
