@@ -10,7 +10,7 @@ timezone: Asia/Shanghai
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
-filter: 'tag'
+filter: 'category'
 
 
 # Social account
