@@ -32,10 +32,9 @@
     <nav id="toc">
       {% if site.filter == 'category' %}
         {% for post in site.posts %}
-          <!--<a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
+          <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
-          </a>-->
-		  <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }} "><span class="toc-link_title">{{ post.title }}</span><span class="toc-link_date">{{ post.date | date: "%Y-%m-%d" }}</span></a>
+          </a>
         {% endfor %}
       {% elsif site.filter == 'tag' %}
         {% for post in site.posts %}
