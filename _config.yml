@@ -2,8 +2,8 @@
 title: Gyj1109's blog
 email: gyj1109@126.com
 description: "My blog"
-baseurl: ""
 url: "http://gyj1109.github.io"
+production_url : http://gyj1109.github.io
 permalink: /:year:month/:title
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: Asia/Shanghai
