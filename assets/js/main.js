@@ -78,6 +78,7 @@ $(function() {
   
   // Search
   $('#search-input').on('input', function(e){
+	console.log(this.value)
     toc.hide();
     $('.toc-link:contains(' + this.value + ')').fadeIn(350);
   });
