@@ -75,5 +75,11 @@ $(function() {
   menu.on('click', function() {
     $(this).add(sidebar).toggleClass('open');
   });
+  
+  // Search
+  $('#search-input').on('input', function(e){
+    toc.hide();
+    $('.toc-link:contains(' + this.value + ')').fadeIn(350);
+  });
 
 });
