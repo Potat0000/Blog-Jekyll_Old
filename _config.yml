@@ -4,7 +4,7 @@ email: gyj1109@126.com
 description: "My blog"
 url: "http://www.gyj1109.pw"
 production_url : http://gyj1109.github.io
-permalink: /:year:month:date/:title
+permalink: /:year:month:day/:title
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: Asia/Shanghai
 
