@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9.19随笔
+title: 9.19随笔 电子白板走进课堂
 tags: Chinese
 ---
 
