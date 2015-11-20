@@ -5,7 +5,7 @@ function EnterPress(e) {
 		if ($("#password").val() == "1234") {
 			$("#password").remove();
 		} else {
-			$("#password").val() = "";
+
 		}
 	}
 }
