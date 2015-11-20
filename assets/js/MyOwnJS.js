@@ -2,7 +2,7 @@ function EnterPress(e) {
 	var e = e || window.event;
 	if (e.keyCode == 13) {
 		var child = document.getElementById("password");
-		if ($("#password").text() == "{{ page.possword }}") {
+		if ($("#password").text() == "1234") {
 			$("#password").remove();
 		} else {
 			$("#password").text() = "";
