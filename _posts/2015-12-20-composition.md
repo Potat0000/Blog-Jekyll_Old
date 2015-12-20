@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 12.20 修改11.27作文-父亲
+title: 12.20修改11.27-父亲
 tags: Chinese
 ---
 
