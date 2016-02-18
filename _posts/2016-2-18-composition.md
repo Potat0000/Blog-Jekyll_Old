@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2.18寒假作文 来了，去了
+title: 2.18寒假作文 寒假
 tags: Chinese
 ---
 
