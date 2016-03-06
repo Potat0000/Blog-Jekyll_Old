@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3.6作文 春，真的来了吗
+title: 3.6备用作文 春，真的来了吗
 tags: Chinese
 ---
 
